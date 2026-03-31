@@ -1839,7 +1839,6 @@ xZZ	xYM	accepted	Pelecanidae		family
 3194SYN19	3194	synonym	Nectophrynoides occidentalis Angel, 1943			
 3194SYN20	3194	synonym	Nectophrynoides occidentalis occidentalis Sandberger			
 3194SYN21	3194	synonym	Nectophrynoides liberiensis Xavier, 1979			
-3194SYN22	3194	synonym	Nectophrynoides liberiensis Xavier, 1979 "1978"			
 3194SYN23	3194	synonym	Nectophrynoides occidentalis liberiensis Sandberger			
 3194SYN24	3194	synonym	Nimbaphrynoides occidentalis Dubois, 1987 "1986"			
 3223SYN25	3223	synonym	Calophasis humiae Hume, 1881			
@@ -1990,11 +1989,11 @@ xZZ	xYM	accepted	Pelecanidae		family
 4552SYN170	4552	synonym	Chelonia depressa Garman, 1880			
 4564SYN171	4564	synonym	Lampsilis satura (I. Lea, 1852)			
 4590SYN172	4590	synonym	Haddad, de Sá			
-4590SYN173	4590	synonym	Cranopsis periglenes Frost			
+4590SYN173	4590	synonym	Cranopsis periglenes	Frost, Grant, Faivovich, Bain, Haas, Haddad, de Sá, Channing, Wilkinson, Donnellan, Raxworthy, Campbell, Blotto, Moler, Drewes, Nussbaum, Lynch, Green & Wheeler, 2006		
 4590SYN174	4590	synonym	Ollotis periglenes Frost			
 4590SYN175	4590	synonym	Incilius periglenes Frost			
 4590SYN176	4590	synonym	Bufo periglenes Savage, 1967 "1966"			
-4590SYN177	4590	synonym	Cranopsis periglenes (Savage, 1967 "1966")			
+4590SYN177	4590	synonym	Cranopsis periglenes	(Savage, 1967)		
 4599SYN178	4599	synonym	Guaruba guarouba (J. F. Gmelin, 1788)			
 4599SYN179	4599	synonym	Aratinga guarouba (Gmelin, 1788)			
 4599SYN180	4599	synonym	Psittacus guarouba Gmelin, 1788			
@@ -2280,7 +2279,7 @@ xZZ	xYM	accepted	Pelecanidae		family
 7171SYN460	7171	synonym	Hydrosalamandra siboldi Leuckart, 1840			
 7171SYN461	7171	synonym	Cryptobranchus maximus Chapman, 1893			
 7171SYN462	7171	synonym	Megalobatrachus maximus Boulenger, 1882			
-7171SYN463	7171	synonym	Salamandra (megalobatrachus) maxima Schlegel, 1858			
+7171SYN463	7171	synonym	Salamandra (megalobatrachus) maxima	Schlegel, 1858		
 7171SYN464	7171	synonym	Megalobatrachus japonicus japonicus Chang, 1936			
 7171SYN465	7171	synonym	Sieboldia maxima Gray, 1850			
 7171SYN466	7171	synonym	Tritomegas sieboldtii Duméril			
@@ -2970,8 +2969,8 @@ xZZ	xYM	accepted	Pelecanidae		family
 20187SYN1150	20187	synonym	Phragmipedium hartwegii (Reichb.f.) L.O. Williams			
 20187SYN1151	20187	synonym	Phragmipedium dariense (Reichb.f.) Garay			
 20244SYN1152	20244	synonym	Encephalocarpus strobiliformis (Werdermann) Berger			
-20271SYN1153	20271	synonym	Toumeya fickeisenii			
-20271SYN1154	20271	synonym	Navajoa peeblesiana fickeisenii (Backeberg) Earle			
+20271SYN1153	20271	synonym	Toumeya fickeisenii	(Backeberg) Earle		
+20271SYN1154	20271	synonym	Navajoa peeblesiana fickeisenii	(Hochstaetter) Hochstaetter		
 20271SYN1155	20271	synonym	Navajoa fickeisenii Croizat			
 20271SYN1156	20271	synonym	Pediocactus fickeisenii (Hochstaetter) Hochstaetter			
 20271SYN1157	20271	synonym	Utahia peeblesiana (Croizat) Kladiwa			
@@ -3063,7 +3062,7 @@ xZZ	xYM	accepted	Pelecanidae		family
 23751SYN1243	23751	synonym	Cypripedium rothschildianum Reichb.f.			
 23751SYN1244	23751	synonym	Paphiopedilum nicholsonianum ex hort.			
 23775SYN1245	23775	synonym	Callista cruenta (Rchb.f.) Kuntze			
-23835SYN1246	23835	synonym	Navajoa peeblesiana fickeisenii			
+23835SYN1246	23835	synonym	Navajoa peeblesiana fickeisenii	(Hochstaetter) Hochstaetter		
 23835SYN1247	23835	synonym	Navajoa fickeisenii			
 23835SYN1248	23835	synonym	Pediocactus fickeisenii (Hochstaetter) Hochstaetter			
 23860SYN1249	23860	synonym	Cypripedium hirsutissimum Lindl. ex Hook.			
@@ -3186,9 +3185,9 @@ xZZ	xYM	accepted	Pelecanidae		family
 26865SYN1366	26865	synonym	Uropedium lindenii Lindl.			
 26865SYN1367	26865	synonym	Selenipedium lindenii (Lindl.) Nichols			
 26865SYN1368	26865	synonym	Cypripedium lindenii (Lindl.) Van Houtte			
-26931SYN1369	26931	synonym	Pediocactus despainii Welsh & Goodrich			
+26931SYN1369	26931	synonym	Pediocactus bradyi despainii	(Welsh & Goodrich) Hochstaetter		
 26931SYN1370	26931	synonym	Toumeya bradyi (L.Benson) Earle			
-26931SYN1371	26931	synonym	Pediocactus despainii Welsh & Goodrich			
+26931SYN1371	26931	synonym	Pediocactus bradyi winkleri	(Heil) Hochstaetter		
 26931SYN1372	26931	synonym	Pediocactus simpsonii bradyi (Benson) Halda			
 26937SYN1373	26937	synonym	Cordula bellatula (Reichb.f) Rolfe			
 26937SYN1374	26937	synonym	Cypripedium bellatulum Reichb.f.			
@@ -3299,7 +3298,6 @@ xZZ	xYM	accepted	Pelecanidae		family
 29634SYN1479	29634	synonym	Pediocactus brevihamatus tobuschii (Marshall) Halda			
 29634SYN1480	29634	synonym	Ferocactus tobuschii (W.T. Marshall) taylor			
 29634SYN1481	29634	synonym	Ancistrocactus tobuschii (W.T. Marsh.) W.T. Marsh. ex Backeberg			
-29634SYN1482	29634	synonym	Ancistrocactus tobuschii (W.T. Marsh.) W.T. Marsh. ex Backeberg			
 30260SYN1483	30260	synonym	Bunopithecus Matthew & Granger, 1925			
 30824SYN1484	30824	synonym	Ovis ammon nigrimontana Severtzov, 1873			
 32735SYN1485	32735	synonym	Cymindis wilsonii Cassin, 1847			
@@ -3315,9 +3313,8 @@ xZZ	xYM	accepted	Pelecanidae		family
 34009SYN1495	34009	synonym	Sousa lentiginosa (Gray, 1866)			
 34430SYN1496	34430	synonym	Megamuntiacus vuquanghensis Tuoc			
 34430SYN1497	34430	synonym	Muntiacus vuquanghensis (Tuoc, Dung, Dawson, Arctander & MacKinnon, 1994)			
-35601SYN1498	35601	synonym	Ambu and Fickel, 2011			
 35601SYN1499	35601	synonym	Neofelis diardi diardi Cuvier, 1923			
-35601SYN1500	35601	synonym	Neofelis diardi borneensis Wilting			
+35601SYN1500	35601	synonym	Neofelis diardi borneensis	Wilting, Christiansen, Kitchener, Kemp, Ambu and Fickel, 2011		
 36868SYN1501	36868	synonym	Hylobates hoolock (Harlan, 1834)			
 36868SYN1502	36868	synonym	Bunopithecus hoolock (Harlan, 1834)			
 37340SYN1503	37340	synonym	Amblonyx cinereus (Illiger, 1815)			
@@ -3594,7 +3591,6 @@ xZZ	xYM	accepted	Pelecanidae		family
 101410SYN1774	101410	synonym	Manta ehrenbergii (Müller & Henle, 1841)			
 101410SYN1775	101410	synonym	Diabolicthys elliotti Holmes, 1856			
 101410SYN1776	101410	synonym	Cephaloptera stelligera Günther, 1870			
-101410SYN1777	101410	synonym	Mobula birostris (Walbaum, 1792)			
 101410SYN1778	101410	synonym	Ceratoptera orissa Lloyd, 1908			
 101410SYN1779	101410	synonym	Manta pinchoti Whitley, 1936			
 101410SYN1780	101410	synonym	Manta hamiltoni Hamilton & Newman, 1849			
